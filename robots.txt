@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shanghai-ad-sign-expo-2026.surge.sh/sitemap.xml
